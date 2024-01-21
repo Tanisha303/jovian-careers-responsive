@@ -133,14 +133,14 @@ width: 100%;
     border: 1px solid grey;
     color: #222222;
     padding: 8px;
-    background-color: #EFF6FF;
+    background-color: #BFDBFE;
 }
 .jobs-data-row td{
     border: 1px solid grey;
     padding: 8px;
 }
 #jobs-table tr:nth-child(odd){
-    background-color: #EFF6FF;
+    background-color: #9cc0ec;
 }
 #footer{
     background-color: lightcyan;
