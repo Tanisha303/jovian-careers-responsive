@@ -179,13 +179,6 @@ html {
   }
 
 
-.copyright {
-  color: #71717A;
-  font-size: 0.875rem;
-}
-
-
-
 /* Small devices (tablets) */
 @media screen and (min-width: 576px) {
   html {
